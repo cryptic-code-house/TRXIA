@@ -1,0 +1,106 @@
+[
+  {
+    "viewport": "320x640 (320_phone_small)",
+    "passed": true,
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "360x740 (360_phone_android)",
+    "passed": true,
+    "scrollWidth": 360,
+    "clientWidth": 360,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "375x667 (375_phone_iphone)",
+    "passed": true,
+    "scrollWidth": 375,
+    "clientWidth": 375,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "390x844 (390_phone_iphone14)",
+    "passed": true,
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "414x896 (414_phone_large)",
+    "passed": true,
+    "scrollWidth": 414,
+    "clientWidth": 414,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "600x960 (600_tablet_small)",
+    "passed": true,
+    "scrollWidth": 600,
+    "clientWidth": 600,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "768x1024 (768_tablet_portrait)",
+    "passed": true,
+    "scrollWidth": 768,
+    "clientWidth": 768,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "820x1180 (820_tablet_ipad_air)",
+    "passed": true,
+    "scrollWidth": 820,
+    "clientWidth": 820,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "1024x768 (1024_tablet_landscape)",
+    "passed": true,
+    "scrollWidth": 1024,
+    "clientWidth": 1024,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "1280x800 (1280_desktop)",
+    "passed": true,
+    "scrollWidth": 1280,
+    "clientWidth": 1280,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "1440x900 (1440_desktop_macbook)",
+    "passed": true,
+    "scrollWidth": 1440,
+    "clientWidth": 1440,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "1920x1080 (1920_desktop_fhd)",
+    "passed": true,
+    "scrollWidth": 1920,
+    "clientWidth": 1920,
+    "diff": 0,
+    "elements": []
+  },
+  {
+    "viewport": "2560x1440 (2560_desktop_qhd)",
+    "passed": true,
+    "scrollWidth": 2560,
+    "clientWidth": 2560,
+    "diff": 0,
+    "elements": []
+  }
+]
